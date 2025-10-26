@@ -5,25 +5,17 @@ MultiCode IDE is a web-based coding environment built using the MERN Stack (Mong
 ✅ Key Features
 
 Supports multiple programming languages
-
 Real-time code editing
-
 Syntax highlighting with a clean UI
-
 User authentication and secure data storage
-
 Create, save, and restore projects or code snippets
-
 Fully responsive design for all devices
 
 🛠️ Tech Stack
 
 Frontend: React.js, HTML, CSS, Code Editor Libraries
-
 Backend: Node.js, Express.js
-
 Database: MongoDB
-
 Authentication: JWT / Firebase Authentication (if used)
 
 🎯 Objective
